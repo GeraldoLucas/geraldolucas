@@ -1,5 +1,6 @@
 ###    Olá, eu sou o Geraldo Lucas 🖖
 
+## Discente de Medicina, Pesquisador e Desenvolvedor Independente
 - 🔭 Trabalhando com o desenvolvimento de software independente...
 
 - 🌱 Consolidando meu conhecimento em tecnologias Front End (React, Angular e VueJS)...
